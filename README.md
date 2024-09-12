@@ -1,15 +1,13 @@
-[![MasterHead](https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif)](https://rishavchanda.io)
+[![MasterHead](https://digitalroar.ae/img/web-development.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm MD. SAMI ADNAN</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://custom-doodle.com/wp-content/uploads/doodle/working-with-a-laptop-anime-aesthetic/working-with-a-laptop-anime-aesthetic-doodle.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1088119/screenshots/3963518/media/4ada5668e5fc3652a102e41d26f9a90f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luffyxgoku&label=Profile%20views&color=0e75b6&style=flat" alt="luffyxgoku" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://nexgen-developer.netlify.app/](https://nexgen-developer.netlify.app/)
-
-- 💬 Ask me about **React and Nodejs**
 
 - 📫 How to reach me **kinghunz12@gmail.com**
 
