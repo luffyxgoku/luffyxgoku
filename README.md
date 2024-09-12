@@ -1,4 +1,3 @@
-[![MasterHead](https://digitalroar.ae/img/web-development.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm MD. SAMI ADNAN</h1>
 <h3 align="center">Fullstack Web Developer</h3>
