@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm MD. SAMI ADNAN</h1>
 <h3 align="center">Fullstack Web Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1088119/screenshots/3963518/media/4ada5668e5fc3652a102e41d26f9a90f.gif">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/Dqwt90d.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=luffyxgoku&label=Profile%20views&color=0e75b6&style=flat" alt="luffyxgoku" /> </p>
+- 🌱 I’m currently learning **React and Node**
 
 - 👨‍💻 All of my projects are available at [https://nexgen-developer.netlify.app/](https://nexgen-developer.netlify.app/)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-sami-adnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-sami-adnan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-sami-adnan-501167225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-sami-adnan-501167225" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
