@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React and Node**
 
-- 👨‍💻 All of my projects are available at [https://nexgen-developer.netlify.app/](https://nexgen-developer.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://zport.netlify.app/](https://zport.netlify.app/)
 
 - 📫 How to reach me **kinghunz12@gmail.com**
 
