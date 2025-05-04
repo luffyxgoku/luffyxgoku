@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://zport.netlify.app/](https://zport.netlify.app/)
 
-- 📫 How to reach me **kinghunz12@gmail.com**
+- 📫 How to reach me **samiadnan2806@gmail.com**
 
 
 
